@@ -30,8 +30,11 @@ The model achieved a Mean Squared Error (MSE) of 0.0049, demonstrating high accu
 
 ## References
 Gopi, E. S., & Palanisamy, P. (2013). Fast computation of PCA bases of image subspace using its inner-product subspace. Applied Mathematics and Computation, 219(12), 6729-6732. https://doi.org/10.1016/j.amc.2013.01.060
+
 Gopi, E. S. (2020). Pattern Recognition and Computational Intelligence Techniques Using Matlab. [Publisher details if available].
+
 Kempen, B., Brus, D. J., & Heuvelink, G. B. (2009). "Soil Texture Mapping Using Gaussian Process Regression." Geoderma, 151(3-4), 243-251.
+
 Xie, X., & Zhang, J. (2010). "Image Segmentation Using Fast Principal Component Analysis." Pattern Recognition Letters, 31(5), 494-501.
 
 
