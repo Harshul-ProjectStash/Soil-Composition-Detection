@@ -33,6 +33,6 @@ Gopi, E. S., & Palanisamy, P. (2013). Fast computation of PCA bases of image sub
 
 Gopi, E. S. (2020). Pattern Recognition and Computational Intelligence Techniques Using Matlab. [Publisher details if available].
 
-Refer the complete code pdf to view code only of the project
+### Refer the complete code pdf to view code only of the project
 
 
