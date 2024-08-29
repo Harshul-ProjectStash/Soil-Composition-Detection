@@ -33,8 +33,6 @@ Gopi, E. S., & Palanisamy, P. (2013). Fast computation of PCA bases of image sub
 
 Gopi, E. S. (2020). Pattern Recognition and Computational Intelligence Techniques Using Matlab. [Publisher details if available].
 
-Kempen, B., Brus, D. J., & Heuvelink, G. B. (2009). "Soil Texture Mapping Using Gaussian Process Regression." Geoderma, 151(3-4), 243-251.
-
-Xie, X., & Zhang, J. (2010). "Image Segmentation Using Fast Principal Component Analysis." Pattern Recognition Letters, 31(5), 494-501.
+Refer the complete code pdf to view code only of the project
 
 
